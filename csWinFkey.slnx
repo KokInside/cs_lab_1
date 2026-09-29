@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="csWinFkey.Tests/csWinFkey.Tests.csproj" Id="e6b66188-39f9-43a5-9937-5e8f71de1c6a" />
+  <Project Path="csWinFkey/csWinFkey.csproj" />
+</Solution>
